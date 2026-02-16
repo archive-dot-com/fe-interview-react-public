@@ -4,6 +4,14 @@ npm install
 npm run start
 ```
 
+### Alternative: GitHub Codespaces
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/archive-dot-com/fe-interview-react-public)
+
+Dependencies install automatically. Once the Codespace is ready, run:
+```bash
+npm run start
+```
+
 ### Alternative: Docker Setup
 ```bash
 docker compose run --rm app npm install
